@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<defaultsMap>
+    <entry>
+        <key>show_sub</key>
+        <value>1</value>
+    </entry>
+    <entry>
+        <key>show_ads</key>
+        <value>1</value>
+    </entry>
+</defaultsMap>
